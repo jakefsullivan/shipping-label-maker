@@ -8,5 +8,5 @@ Run `yarn install` to install package dependencies (only need to do this once on
 To start run `yarn start` in the terminal.
 
 ## Built With
-*[material-ui] (https://material-ui.com)
+*[material-ui](https://material-ui.com)
 *[Jest](https://jestjs.io/en/) - for testing
